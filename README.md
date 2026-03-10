@@ -1132,7 +1132,33 @@
                 </div>
               </div>
             </div>
-            <!-- 第2个视频 -->
+            <!-- 第2个视频：信息流剪辑作品（调整到第二个位置） -->
+            <div class="video-card">
+              <div class="video-container">
+                <video
+                  controls
+                  poster="https://ibb.co/C5RrNYvV"
+                >
+                  <source
+                    src="https://file.icve.com.cn/file_doc/qdqqd/7941773116585248.mp4"
+                    type="video/mp4"
+                  />
+                  您的浏览器不支持HTML5视频播放
+                </video>
+              </div>
+              <div class="work-content">
+                <h3 class="work-title">信息流剪辑作品</h3>
+                <p class="work-desc">
+                  信息流剪辑作品，适配各类信息流平台传播特性，节奏紧凑、视觉表现力强。
+                </p>
+                <div class="work-tags">
+                  <span class="work-tag">视频创作</span>
+                  <span class="work-tag">信息流剪辑</span>
+                  <span class="work-tag">短视频</span>
+                </div>
+              </div>
+            </div>
+            <!-- 第3个视频（原第二个） -->
             <div class="video-card">
               <div class="video-container">
                 <video
@@ -1158,7 +1184,7 @@
                 </div>
               </div>
             </div>
-            <!-- 第3个视频 -->
+            <!-- 第4个视频（原第三个） -->
             <div class="video-card">
               <div class="video-container">
                 <video controls poster="https://i.ibb.co/mC4PNQJs/30s.jpg">
@@ -1181,7 +1207,7 @@
                 </div>
               </div>
             </div>
-            <!-- 第4个视频 -->
+            <!-- 第5个视频（原第四个） -->
             <div class="video-card">
               <div class="video-container">
                 <video
@@ -1207,7 +1233,7 @@
                 </div>
               </div>
             </div>
-            <!-- 第5个视频 -->
+            <!-- 第6个视频（原第五个） -->
             <div class="video-card">
               <div class="video-container">
                 <video
@@ -1233,7 +1259,7 @@
                 </div>
               </div>
             </div>
-            <!-- 第6个视频 -->
+            <!-- 第7个视频（原第六个） -->
             <div class="video-card">
               <div class="video-container">
                 <video controls poster="https://i.ibb.co/FbTsP2FS/1.jpg">
@@ -1253,32 +1279,6 @@
                   <span class="work-tag">视频创作</span>
                   <span class="work-tag">专业剪辑</span>
                   <span class="work-tag">内容传播</span>
-                </div>
-              </div>
-            </div>
-            <!-- 新增第7个视频：信息流剪辑作品 -->
-            <div class="video-card">
-              <div class="video-container">
-                <video
-                  controls
-                  poster="https://ibb.co/C5RrNYvV"
-                >
-                  <source
-                    src="https://file.icve.com.cn/file_doc/qdqqd/7941773116585248.mp4"
-                    type="video/mp4"
-                  />
-                  您的浏览器不支持HTML5视频播放
-                </video>
-              </div>
-              <div class="work-content">
-                <h3 class="work-title">信息流剪辑作品</h3>
-                <p class="work-desc">
-                  信息流剪辑作品，适配各类信息流平台传播特性，节奏紧凑、视觉表现力强。
-                </p>
-                <div class="work-tags">
-                  <span class="work-tag">视频创作</span>
-                  <span class="work-tag">信息流剪辑</span>
-                  <span class="work-tag">短视频</span>
                 </div>
               </div>
             </div>
